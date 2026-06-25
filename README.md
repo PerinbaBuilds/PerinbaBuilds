@@ -151,6 +151,8 @@ I'm an AI/ML engineer who builds end-to-end intelligent systems — from RAG pip
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=2E86C1&center=true&vCenter=true&width=550&lines=Thanks+for+stopping+by!+%F0%9F%91%8B;Explore+the+projects+above+%F0%9F%9A%80;Let's+connect+and+build+something+%E2%9C%A8" alt="Closing typing SVG" />
+### 🌊 Thanks for stopping by!
+
+*Explore the projects above, check out the dashboard, or reach out — always happy to talk AI, ML, or anything in between.* ✨
 
 </div>

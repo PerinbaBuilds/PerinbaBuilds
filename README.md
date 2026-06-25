@@ -6,7 +6,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&pause=1000&color=2E86C1&center=true&vCenter=true&width=620&lines=AI+Engineer;Machine+Learning+Engineer;Deep+Learning+Engineer;NLP+Engineer;Computer+Vision+Engineer;Data+Engineer;Software+Engineer" alt="Typing SVG" width="100%" />
 
-**Final Year B.Tech CSE (AI & Robotics) @ VIT Chennai** · Ex-ISRO Intern · Published IEEE Researcher
+**Final Year B.Tech CSE (AI & Robotics) @ VIT Chennai** 
 
 [![Email](https://img.shields.io/badge/-perinbaathiban%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=perinbaathiban@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/perinba-athiban-a970a8280/)

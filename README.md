@@ -151,8 +151,8 @@ I'm an AI/ML engineer who builds end-to-end intelligent systems — from RAG pip
 
 <div align="center">
 
-### 🌊 Thanks for stopping by!
+###  Thanks for stopping by!
 
-*Explore the projects above, check out the dashboard, or reach out — always happy to talk AI, ML, or anything in between.* ✨
+*Explore the projects above, check out the dashboard, or reach out — always happy to talk AI, ML, or anything in between.* 
 
 </div>

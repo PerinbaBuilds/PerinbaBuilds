@@ -10,6 +10,7 @@
 
 [![Email](https://img.shields.io/badge/-perinbaathiban%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=perinbaathiban@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/perinba-athiban-a970a8280/)
+
 [![GitHub Followers](https://img.shields.io/github/followers/PerinbaBuilds?style=flat-square&logo=github&color=181717&labelColor=181717&label=Followers)](https://github.com/PerinbaBuilds?tab=followers)
 [![Profile Views](https://komarev.com/ghpvc/?username=PerinbaBuilds&style=flat-square&color=2E86C1&label=Profile+Views)](https://github.com/PerinbaBuilds)
 
@@ -27,6 +28,12 @@
 </td>
 </tr>
 </table>
+
+<br/>
+
+## 👨‍💻 About Me
+
+I'm an AI/ML engineer who builds end-to-end intelligent systems — from RAG pipelines and computer vision models to the data infrastructure and APIs that ship them to production. My background spans an ISRO internship on launch-vehicle telemetry analysis, 4 IEEE publications, and 4 patents across IoT, blockchain, and embedded systems. Always exploring the intersection of ML research and real-world deployment.
 
 <br/>
 
@@ -92,7 +99,7 @@
 | **Semantic-RAG-Search** | RAG pipeline over 18,000+ Usenet posts from 1993 — query rewriting, document grading, and RAGAS evaluation | Python, LangGraph, FastAPI | [Code](https://github.com/PerinbaBuilds/Semantic-RAG-Search) · [Demo](https://perinbabuilds-newsgroups-search.hf.space/) |
 | **TaskPilot** | RL-powered cloud job scheduler that minimises carbon footprint via tier-pool routing and real-time energy data | Python | [Code](https://github.com/PerinbaBuilds/TaskPilot) · [Demo](https://taskpilot-krt8.onrender.com/) |
 | **Curve-Analysis-and-Anomaly-Detection** | Desktop tool for launch vehicle telemetry analysis — deviation/bound checks and ML-based anomaly detection. Built at SDSC-SHAR, ISRO | Python, scikit-learn | [Code](https://github.com/PerinbaBuilds/Curve-Analysis-and-Anomaly-Detection) |
-| **BloodBank-Finder** | Real-time blood donation and emergency-response platform — geo-matched donor discovery, live inventory, and ambulance dispatch | Next.js, TypeScript, Prisma, Socket.io, React Native | [Code](https://github.com/PerinbaBuilds/BloodBank-Finder) |
+| **BloodBank-Finder** | Real-time blood donation and emergency-response platform — geo-matched donor discovery, live inventory, and ambulance dispatch | Next.js, TypeScript, Prisma, Socket.io, React Native | [Code](https://github.com/PerinbaBuilds/BloodBank-Finder) · [Demo](https://blood-bank-finder.vercel.app/) |
 
 <br/>
 
@@ -140,8 +147,10 @@
 
 <br/>
 
+---
+
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=2E86C1&center=true&vCenter=true&width=550&lines=Thanks+for+stopping+by!;Explore+the+projects+above;Follow+for+updates+%F0%9F%9A%80" alt="Closing typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=2E86C1&center=true&vCenter=true&width=550&lines=Thanks+for+stopping+by!+%F0%9F%91%8B;Explore+the+projects+above+%F0%9F%9A%80;Let's+connect+and+build+something+%E2%9C%A8" alt="Closing typing SVG" />
 
 </div>

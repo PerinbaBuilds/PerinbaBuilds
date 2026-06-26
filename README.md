@@ -35,7 +35,7 @@
 
 ## 👨‍💻 About Me
 
-I'm an AI/ML engineer who builds end-to-end intelligent systems — from RAG pipelines and computer vision models to the data infrastructure and APIs that ship them to production. My background spans an ISRO internship on launch-vehicle telemetry analysis, 4 IEEE publications, and 4 patents across IoT, blockchain, and embedded systems. Always exploring the intersection of ML research and real-world deployment.
+I'm an AI/ML engineer who builds end-to-end intelligent systems — from RAG pipelines and computer vision models to the data infrastructure and APIs that ship them to production. My background spans an ISRO internship on launch-vehicle telemetry analysis, 4 IEEE publications, and 4 patents across IoT, blockchain, and embedded systems. Always exploring the intersection of ML research and real-world deployment
 
 <br/>
 

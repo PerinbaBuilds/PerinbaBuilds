@@ -110,21 +110,10 @@ I'm an AI/ML engineer who builds end-to-end intelligent systems — from RAG pip
 
 | | |
 |---|---|
-| 🛰️ **ISRO – Satish Dhawan Space Centre** | ML-based anomaly detection (Z-Score, Isolation Forest, One-Class SVM) and a Curve Analysis engine for launch vehicle telemetry |
-| 📄 **Research** | 4 IEEE-indexed publications across computer vision, predictive analytics, satellite EPS, and maritime safety systems |
-| 🏆 **Patents** | 4 patents spanning IoT sensing, blockchain-based EHR systems, and embedded design |
-
-<div align="center">
-
-🥇 **1st Place** — 39th National Convention of Electrical Engineers (2024), Vehicle Distance Estimation using YOLOv8, from 85+ national submissions
-&nbsp;·&nbsp;
-🥉 **3rd Place** — JUC Awards (2023), Research Category, *"Artificial Intelligence: Angel or Demon?"*
-&nbsp;·&nbsp;
-🎖️ **Speaker** — G20 Youth Cabinet, Agriculture, Food Security, Nutrition & Resource Conservation
-&nbsp;·&nbsp;
-🥈 **National Bronze** (U16) & 🥇 **National Gold** (U10) — Chess, FIDE rated 1500+
-
-</div>
+| **ISRO – Satish Dhawan Space Centre** | ML-based anomaly detection (Z-Score, Isolation Forest, One-Class SVM) and a Curve Analysis engine for launch vehicle telemetry |
+| **Research** | 4 IEEE-indexed publications across computer vision, predictive analytics, satellite EPS, and maritime safety systems |
+| **Patents** | 4 patents spanning IoT sensing, blockchain-based EHR systems, and embedded design |
+| **Award** | 1st Place, 39th National Convention of Electrical Engineers (2024) — Vehicle Distance Estimation using YOLOv8, from 85+ national submissions |
 
 <br/>
 

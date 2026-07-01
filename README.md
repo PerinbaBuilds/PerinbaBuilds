@@ -132,19 +132,9 @@ I'm an AI/ML engineer who builds end-to-end intelligent systems — from RAG pip
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=PerinbaBuilds&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=86400" />
-  <img src="https://github-readme-stats.vercel.app/api?username=PerinbaBuilds&show_icons=true&theme=default&hide_border=true&cache_seconds=86400" alt="GitHub stats" height="165" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=PerinbaBuilds&theme=github-dark-blue&hide_border=true" />
-  <img src="https://streak-stats.demolab.com/?user=PerinbaBuilds&theme=default&hide_border=true" alt="GitHub streak" height="165" />
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=PerinbaBuilds&layout=compact&theme=github_dark&hide_border=true&langs_count=5&cache_seconds=86400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PerinbaBuilds&layout=compact&theme=default&hide_border=true&langs_count=5&cache_seconds=86400" alt="Top languages" />
-</picture>
+<img src="profile-summary-card-output/github_dark/0-profile-details.svg" alt="Profile details" />
+<img src="profile-summary-card-output/github_dark/3-stats.svg" alt="GitHub stats" />
+<img src="profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Top languages" />
 
 </div>
 

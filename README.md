@@ -102,6 +102,7 @@ I'm an AI/ML engineer who builds end-to-end intelligent systems — from RAG pip
 | **TaskPilot** | RL-powered cloud job scheduler that minimises carbon footprint via tier-pool routing and real-time energy data | Python | [Code](https://github.com/PerinbaBuilds/TaskPilot) · [Demo](https://taskpilot-krt8.onrender.com/) |
 | **Curve-Analysis-and-Anomaly-Detection** | Desktop tool for launch vehicle telemetry analysis — deviation/bound checks and ML-based anomaly detection. Built at SDSC-SHAR, ISRO | Python, scikit-learn | [Code](https://github.com/PerinbaBuilds/Curve-Analysis-and-Anomaly-Detection) |
 | **BloodBank-Finder** | Real-time blood donation and emergency-response platform — geo-matched donor discovery, live inventory, and ambulance dispatch | Next.js, TypeScript, Prisma, Socket.io, React Native | [Code](https://github.com/PerinbaBuilds/BloodBank-Finder) · [Demo](https://blood-bank-finder.vercel.app/) |
+| **Finance-App** | Personal finance tracker — monthly budgets per category, expense and income logging, savings goals, recurring bills, and a financial health score | Flutter, Supabase | [Code](https://github.com/PerinbaBuilds/Finance-App) · [Demo](https://perinbabuilds.github.io/Finance-App/) |
 
 <br/>
 

@@ -13,10 +13,6 @@ jobs:
 
     steps:
       - uses: actions/checkout@v4
-      - name: Set git identity
-        run: |
-          git config --global user.name "PerinbaBuilds"
-          git config --global user.email "perinbaathiban@gmail.com"
       - uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
           GITHUB_TOKEN: ${{ secrets.SUMMARY_GITHUB_TOKEN }}
@@ -25,4 +21,12 @@ jobs:
           BRANCH_NAME: "main"
           UTC_OFFSET: 8
           EXCLUDE: ""
-          AUTO_PUSH: true
+          AUTO_PUSH: false
+      - name: Commit and push generated cards
+        run: |
+          git config user.name "PerinbaBuilds"
+          git config user.email "perinbaathiban@gmail.com"
+          git add profile-summary-card-output
+          git diff --cached --quiet && exit 0
+          git commit -m "Generate profile summary cards"
+          git push

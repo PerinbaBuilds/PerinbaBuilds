@@ -16,9 +16,9 @@
 
 <br/>
 
-🛰️ Ex-ISRO Intern &nbsp;·&nbsp; 📜 IEEE-published researcher
+💼 Ex-Data Engineer Intern @ TangoEye &nbsp;·&nbsp; 🛰️ Ex-ISRO Intern
 <br/>
-🏆 4 patents &nbsp;·&nbsp; 🥇 National 1st place (YOLOv8 ADAS)
+📜 IEEE-published researcher &nbsp;·&nbsp; 🏆 4 patents &nbsp;·&nbsp; 🥇 National 1st place (YOLOv8 ADAS)
 
 💬 Ask me about data engineering, ML/DL, NLP, computer vision, or shipping AI systems to production
 
@@ -35,7 +35,7 @@
 
 ## 👨‍💻 About Me
 
-I'm an AI/ML engineer who builds end-to-end intelligent systems — from RAG pipelines and computer vision models to the data infrastructure and APIs that ship them to production. My background spans an ISRO internship on launch-vehicle telemetry analysis, 4 IEEE publications, and 4 patents across IoT, blockchain, and embedded systems. Always exploring the intersection of ML research and real-world deployment.
+I'm an AI/ML engineer who builds end-to-end intelligent systems — from RAG pipelines and computer vision models to the data infrastructure and APIs that ship them to production. My background spans a Data Engineer internship at TangoEye — building access-controlled internal tooling and query-optimization systems (up to 84× latency reduction) — an ISRO internship on launch-vehicle telemetry analysis, 4 IEEE publications, and 4 patents across IoT, blockchain, and embedded systems. Always exploring the intersection of ML research and real-world deployment.
 
 <br/>
 
@@ -94,15 +94,26 @@ I'm an AI/ML engineer who builds end-to-end intelligent systems — from RAG pip
 
 <br/>
 
+## 💼 Experience
+
+| Role | Highlights |
+|---|---|
+| **Data Engineer Intern** · [TangoEye.ai](https://tangoeye.ai/) <br/> <sub>Jun 2026 – Jul 2026 · Chennai, India</sub> | Built **TangoOps**, an access-controlled console managing migration/audit workflows for **6,321 stores** across 4 role-gated accounts, replacing direct-AWS shell scripts with atomic, RBAC-gated operations. Reduced production analytics query latency **up to 84× (65s → 0.77s)** via aggregation pushdown and keyset pagination, decoupled a migration pipeline with SQS, and automated a 5-phase incident fix into one idempotent AWS Glue job with SES/CloudWatch alerting. |
+| **Project Intern** · ISRO – Satish Dhawan Space Centre <br/> <sub>Jun 2025 – Jul 2025 · Sriharikota, India</sub> | Built a Python telemetry app (SQLite3 backend, Tkinter/Matplotlib GUI) for real-time curve visualization and nominal-vs-actual comparison, and integrated an ML anomaly-detection pipeline (Z-Score, Isolation Forest, One-Class SVM) with severity scoring and structured CSV export for post-flight review. |
+
+<br/>
+
 ## 🚀 Featured Projects
 
 | Project | Description | Stack | Links |
 |---|---|---|---|
+| **EvalPipe — AI Evaluation Pipeline** | Self-hosted, provider-agnostic evaluation pipeline for LLM apps — pluggable metric suite, statistically rigorous A/B testing, and prompt versioning; 95% test coverage, runs fully offline | Python, FastAPI, Docker | [Code](https://github.com/PerinbaBuilds/AI-Evaluation-Pipeline) · [Demo](https://evalpipe.onrender.com/) |
 | **Semantic-RAG-Search** | RAG pipeline over 18,000+ Usenet posts from 1993 — query rewriting, document grading, and RAGAS evaluation | Python, LangGraph, FastAPI | [Code](https://github.com/PerinbaBuilds/Semantic-RAG-Search) · [Demo](https://perinbabuilds-newsgroups-search.hf.space/) |
 | **TaskPilot** | RL-powered cloud job scheduler that minimises carbon footprint via tier-pool routing and real-time energy data | Python | [Code](https://github.com/PerinbaBuilds/TaskPilot) · [Demo](https://taskpilot-krt8.onrender.com/) |
 | **Curve-Analysis-and-Anomaly-Detection** | Desktop tool for launch vehicle telemetry analysis — deviation/bound checks and ML-based anomaly detection. Built at SDSC-SHAR, ISRO | Python, scikit-learn | [Code](https://github.com/PerinbaBuilds/Curve-Analysis-and-Anomaly-Detection) |
 | **BloodBank-Finder** | Real-time blood donation and emergency-response platform — geo-matched donor discovery, live inventory, and ambulance dispatch | Next.js, TypeScript, Prisma, Socket.io, React Native | [Code](https://github.com/PerinbaBuilds/BloodBank-Finder) · [Demo](https://blood-bank-finder.vercel.app/) |
 | **Finance-App** | Personal finance tracker — monthly budgets per category, expense and income logging, savings goals, recurring bills, and a financial health score | Flutter, Supabase | [Code](https://github.com/PerinbaBuilds/Finance-App) · [Demo](https://perinbabuilds.github.io/Finance-App/) |
+| **Smart-Traffic-System** | IoT traffic-signal system that detects approaching emergency vehicles via GPS + siren telemetry and opens a real-time green corridor through intersections ahead of them | React, Node.js, Socket.io, Leaflet, Vite | [Code](https://github.com/PerinbaBuilds/Smart-Traffic-System) · [Demo](https://perinbabuilds.github.io/Smart-Traffic-System/) |
 
 <br/>
 
@@ -110,7 +121,6 @@ I'm an AI/ML engineer who builds end-to-end intelligent systems — from RAG pip
 
 | | |
 |---|---|
-| **ISRO – Satish Dhawan Space Centre** | ML-based anomaly detection (Z-Score, Isolation Forest, One-Class SVM) and a Curve Analysis engine for launch vehicle telemetry |
 | **Research** | 4 IEEE-indexed publications across computer vision, predictive analytics, satellite EPS, and maritime safety systems |
 | **Patents** | 4 patents spanning IoT sensing, blockchain-based EHR systems, and embedded design |
 | **Award** | 1st Place, 39th National Convention of Electrical Engineers (2024) — Vehicle Distance Estimation using YOLOv8, from 85+ national submissions |

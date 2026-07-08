@@ -18,7 +18,9 @@
 
 💼 Ex-Data Engineer Intern @ TangoEye &nbsp;·&nbsp; 🛰️ Ex-ISRO Intern
 <br/>
-📜 IEEE-published researcher &nbsp;·&nbsp; 🏆 4 patents &nbsp;·&nbsp; 🥇 National 1st place (YOLOv8 ADAS)
+📜 IEEE-published researcher &nbsp;·&nbsp; 🏆 4 patents
+<br/>
+🥇 National 1st place (YOLOv8 ADAS)
 
 💬 Ask me about data engineering, ML/DL, NLP, computer vision, or shipping AI systems to production
 

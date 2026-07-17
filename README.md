@@ -84,15 +84,15 @@ I'm an AI/ML engineer focused on shipping intelligent systems to production — 
 
 | Role | Core Skills |
 |:--|:--|
-| ⚙️ **AI Engineer** | FastAPI · Docker · AWS (EC2, S3) · CI/CD · MLOps · RAG · REST APIs |
-| 🤖 **Machine Learning** | scikit-learn · anomaly detection (Z-Score, Isolation Forest, One-Class SVM) · MLflow |
-| 🧠 **Deep Learning** | TensorFlow · PyTorch · CNNs |
-| 💬 **NLP** | RAG · LangChain / LangGraph · Hugging Face · ChromaDB · FAISS · sentence-transformers |
-| 👁️ **Computer Vision** | YOLOv8 · OpenCV · real-time object detection |
-| 🔧 **Data Engineering** | ETL/ELT · Spark · Kafka · AWS (SQS, Glue, Lambda) · query optimization · SQL |
-| 📊 **Data Science** | feature engineering · statistical analysis · A/B testing · pandas · Jupyter |
-| 🗄️ **Databases** | MySQL · PostgreSQL · MongoDB · SQLite · schema design · OLAP/OLTP |
-| 💻 **Software Engineering** | Java · C++ · DSA · OOP · Git · Docker · REST APIs |
+| ⚙️ **AI Engineer** | [FastAPI](https://fastapi.tiangolo.com/) · [Docker](https://www.docker.com/) · [AWS](https://aws.amazon.com/) ([EC2](https://aws.amazon.com/ec2/), [S3](https://aws.amazon.com/s3/)) · [CI/CD](https://en.wikipedia.org/wiki/CI/CD) · [MLOps](https://ml-ops.org/) · [RAG](https://en.wikipedia.org/wiki/Retrieval-augmented_generation) · [LangChain](https://www.langchain.com/) · [REST APIs](https://restfulapi.net/) |
+| 🤖 **Machine Learning** | [scikit-learn](https://scikit-learn.org/) · anomaly detection ([Z-Score](https://en.wikipedia.org/wiki/Standard_score), [Isolation Forest](https://en.wikipedia.org/wiki/Isolation_forest), [One-Class SVM](https://scikit-learn.org/stable/modules/outlier_detection.html)) · [feature engineering](https://en.wikipedia.org/wiki/Feature_engineering) · [MLflow](https://mlflow.org/) |
+| 🧠 **Deep Learning** | [TensorFlow](https://www.tensorflow.org/) · [PyTorch](https://pytorch.org/) · [CNNs](https://en.wikipedia.org/wiki/Convolutional_neural_network) · [Transformers](https://huggingface.co/docs/transformers/index) · [transfer learning](https://en.wikipedia.org/wiki/Transfer_learning) |
+| 💬 **NLP** | [RAG](https://en.wikipedia.org/wiki/Retrieval-augmented_generation) · [LangChain](https://www.langchain.com/) / [LangGraph](https://langchain-ai.github.io/langgraph/) · [Hugging Face](https://huggingface.co/) · [ChromaDB](https://www.trychroma.com/) · [FAISS](https://github.com/facebookresearch/faiss) · [sentence-transformers](https://www.sbert.net/) · [RAGAS](https://docs.ragas.io/) |
+| 👁️ **Computer Vision** | [YOLOv8](https://docs.ultralytics.com/models/yolov8/) · [OpenCV](https://opencv.org/) · [Ultralytics](https://www.ultralytics.com/) · [real-time object detection](https://en.wikipedia.org/wiki/Object_detection) |
+| 🔧 **Data Engineering** | [ETL/ELT](https://en.wikipedia.org/wiki/Extract,_transform,_load) · [Apache Spark](https://spark.apache.org/) · [Apache Kafka](https://kafka.apache.org/) · [OpenSearch](https://opensearch.org/) · [AWS](https://aws.amazon.com/) ([SQS](https://aws.amazon.com/sqs/), [Glue](https://aws.amazon.com/glue/), [Lambda](https://aws.amazon.com/lambda/)) · [data warehousing](https://en.wikipedia.org/wiki/Data_warehouse) · [SQL](https://en.wikipedia.org/wiki/SQL) |
+| 📊 **Data Science** | [feature engineering](https://en.wikipedia.org/wiki/Feature_engineering) · [statistical analysis](https://en.wikipedia.org/wiki/Statistics) · [A/B testing](https://en.wikipedia.org/wiki/A/B_testing) · [pandas](https://pandas.pydata.org/) · [NumPy](https://numpy.org/) · [Matplotlib](https://matplotlib.org/) · [Jupyter](https://jupyter.org/) |
+| 🗄️ **Databases** | [MySQL](https://www.mysql.com/) · [PostgreSQL](https://www.postgresql.org/) · [MongoDB](https://www.mongodb.com/) · [SQLite](https://www.sqlite.org/) · [Supabase](https://supabase.com/) · [schema design](https://en.wikipedia.org/wiki/Database_design) · [OLAP/OLTP](https://en.wikipedia.org/wiki/Online_analytical_processing) |
+| 💻 **Software Engineering** | [Java](https://www.java.com/) · [C++](https://isocpp.org/) · [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) · [Node.js](https://nodejs.org/) · [Flutter](https://flutter.dev/) · [DSA](https://en.wikipedia.org/wiki/Data_structure) · [OOP](https://en.wikipedia.org/wiki/Object-oriented_programming) · [Git](https://git-scm.com/) · [REST APIs](https://restfulapi.net/) |
 
 <br/>
 

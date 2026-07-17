@@ -37,7 +37,7 @@
 
 ## 👨‍💻 About Me
 
-I'm an AI/ML engineer focused on shipping intelligent systems to production — from RAG and LLM-evaluation pipelines to computer-vision models and the data infrastructure, APIs, and streaming backends that serve them. Most recently at **TangoEye**, I cut production analytics query latency **up to 84×** (65s → 0.77s) with aggregation pushdown and keyset pagination, and engineered an RBAC-gated operations console managing migration/audit workflows for **6,300+ retail stores** on AWS (SQS, Glue, Lambda). My work spans **4 IEEE-indexed publications**, **5 patents** across IoT, blockchain, and embedded systems, and an ISRO internship on launch-vehicle telemetry analysis. I care about correctness, measurable performance, and systems that hold up under real-world load.
+Final-year **B.Tech (AI & Robotics)** engineer specializing in applied machine learning and the production systems that ship it — RAG and LLM-evaluation pipelines, computer-vision models, and the data infrastructure, APIs, and streaming backends behind them. During my Data Engineer internship at **TangoEye**, I reduced production analytics query latency by **up to 84×** (65s → 0.77s) with aggregation pushdown and keyset pagination, and built an RBAC-gated operations console managing migration and audit workflows for **6,300+ retail stores** on AWS (SQS, Glue, Lambda). My research spans **4 IEEE-indexed publications** and **5 patents** across IoT, blockchain, and embedded systems, alongside an ISRO internship on launch-vehicle telemetry analysis. I value engineering rigor, measurable performance, and systems that stay reliable under real-world load.
 
 <br/>
 

@@ -124,7 +124,7 @@ I'm an AI/ML engineer focused on shipping intelligent systems to production — 
 | | |
 |---|---|
 | **Research** | 4 IEEE-indexed publications across computer vision, predictive analytics, satellite EPS, and maritime safety systems |
-| **Patents** | 5 patents (1 recently published) spanning IoT sensing, blockchain-based EHR systems, and embedded design |
+| **Patents** | 5 patents spanning IoT sensing, blockchain-based EHR systems, embedded design, and wearable AR — most recent: *Wearable Underwater Navigation & Safety System with Augmented Reality and Multi-Modal Data Fusion* |
 | **Award** | 1st Place, 39th National Convention of Electrical Engineers (2024) — Vehicle Distance Estimation using YOLOv8, from 85+ national submissions |
 
 <br/>

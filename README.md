@@ -6,9 +6,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=24&pause=1000&color=2E86C1&center=true&vCenter=true&width=620&lines=AI+Engineer;Machine+Learning+Engineer;Deep+Learning+Engineer;NLP+Engineer;Computer+Vision+Engineer;Data+Engineer;Software+Engineer" alt="Typing SVG" width="100%" />
 
-**Final-year B.Tech CSE (AI & Robotics) @ VIT Chennai · CGPA 8.57/10**
-<br/>
-🎯 Open to new-grad roles — **AI/ML Engineer · Data Engineer · Software Engineer**
+**Final Year B.Tech CSE (AI & Robotics) @ VIT Chennai** 
 
 [![Email](https://img.shields.io/badge/-perinbaathiban%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=perinbaathiban@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/perinba-athiban-a970a8280/)
@@ -37,21 +35,9 @@
 
 <br/>
 
-## ⚡ Highlights
-
-- 💼 **Data Engineer Intern @ TangoEye** — cut analytics query latency **up to 84×** (65s → 0.77s); built an RBAC ops console for **6,300+ retail stores** on AWS
-- 🛰️ **Project Intern @ ISRO (SDSC-SHAR)** — real-time launch-vehicle telemetry + ML anomaly detection
-- 📜 **4 IEEE publications** &nbsp;·&nbsp; 🏆 **5 patents** (IoT, blockchain EHR, embedded, wearable AR)
-- 🥇 **1st Place** — 39th National Convention of Electrical Engineers 2024 (YOLOv8 ADAS, 85+ entries)
-- 🎓 **Amazon ML Summer School 2024** — top **~2.2%** (3,000 of 1,34,000+ applicants)
-- 🎤 **G20 Youth Cabinet Speaker** &nbsp;·&nbsp; 🥉 **JUC Research Awards 2023**
-- 🚀 **7 shipped projects** across RAG, LLM-evaluation, RL scheduling, computer vision, and IoT
-
-<br/>
-
 ## 👨‍💻 About Me
 
-Final-year **AI & Robotics** undergrad and AI/ML engineer who turns research into production systems — RAG and LLM-evaluation pipelines, computer-vision models, and the data infrastructure, APIs, and streaming backends that serve them. Across internships at **TangoEye** and **ISRO**, I've shipped performance-critical tooling (up to **84×** faster queries) and real-time telemetry + anomaly-detection systems. I care about correctness, measurable performance, and code that holds up under real-world load. Currently exploring **LLM evaluation, agentic pipelines, and green/efficient computing**.
+I'm an AI/ML engineer focused on shipping intelligent systems to production — from RAG and LLM-evaluation pipelines to computer-vision models and the data infrastructure, APIs, and streaming backends that serve them. Most recently at **TangoEye**, I cut production analytics query latency **up to 84×** (65s → 0.77s) with aggregation pushdown and keyset pagination, and engineered an RBAC-gated operations console managing migration/audit workflows for **6,300+ retail stores** on AWS (SQS, Glue, Lambda). My work spans **4 IEEE-indexed publications**, **5 patents** across IoT, blockchain, and embedded systems, and an ISRO internship on launch-vehicle telemetry analysis. I care about correctness, measurable performance, and systems that hold up under real-world load.
 
 <br/>
 
@@ -133,25 +119,13 @@ Final-year **AI & Robotics** undergrad and AI/ML engineer who turns research int
 
 <br/>
 
-## 📜 Publications, Patents & Achievements
+## 📜 Publications, Patents & Awards
 
-**📄 IEEE Publications**
-
-| Paper | Venue |
-|:--|:--|
-| Non-Invasive Breath Analysis for Lung Cancer Screening using CNN — 92.8% accuracy | IEEE ROMA 2025 |
-| CNN-Based Predictive Analytics for ERP-Supported E-commerce — 93% accuracy | IEEE ICSCDS 2025 |
-| Enhancing CubeSat Performance with Affordable, Reliable Electrical Power Systems | IEEE ROMA 2025 |
-| Fisherman Location, Updating & Alert System using AWS Cloud + Satellite | IEEE ICESIC 2024 |
-
-**🏆 Patents** — 5 across IoT sensing, blockchain-based EHR systems, embedded design, and wearable AR. Most recent: *Wearable Underwater Navigation & Safety System with Augmented Reality and Multi-Modal Data Fusion*.
-
-**🥇 Achievements**
-
-- 🥇 **1st Place** — 39th National Convention of Electrical Engineers, 2024 (Vehicle Distance Estimation with YOLOv8; 85+ national submissions)
-- 🎓 **Amazon ML Summer School 2024** — selected in the top **~2.2%** (3,000 of 1,34,000+ applicants)
-- 🎤 **G20 Youth Cabinet** — invited Speaker
-- 🥉 **3rd Place** — JUC Research Awards, 2023
+| | |
+|---|---|
+| **Research** | 4 IEEE-indexed publications across computer vision, predictive analytics, satellite EPS, and maritime safety systems |
+| **Patents** | 5 patents spanning IoT sensing, blockchain-based EHR systems, embedded design, and wearable AR — most recent: *Wearable Underwater Navigation & Safety System with Augmented Reality and Multi-Modal Data Fusion* |
+| **Award** | 1st Place, 39th National Convention of Electrical Engineers (2024) — Vehicle Distance Estimation using YOLOv8, from 85+ national submissions |
 
 <br/>
 

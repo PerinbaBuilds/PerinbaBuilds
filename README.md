@@ -4,7 +4,7 @@
 
 # Hi 👋, I'm Perinba Athiban
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&pause=1000&color=2E86C1&center=true&vCenter=true&width=620&lines=AI+Engineer;Machine+Learning+Engineer;Deep+Learning+Engineer;NLP+Engineer;Computer+Vision+Engineer;Data+Engineer;Software+Engineer" alt="Typing SVG" width="100%" />
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=24&pause=1000&color=2E86C1&center=true&vCenter=true&width=620&lines=AI+Engineer;Machine+Learning+Engineer;Deep+Learning+Engineer;NLP+Engineer;Computer+Vision+Engineer;Data+Engineer;Software+Engineer" alt="Typing SVG" width="100%" />
 
 **Final Year B.Tech CSE (AI & Robotics) @ VIT Chennai** 
 
@@ -83,16 +83,16 @@ I'm an AI/ML engineer focused on shipping intelligent systems to production — 
 ## 🎯 Skills by Role
 
 | Role | Core Skills |
-|---|---|
-| ⚙️ **AI Engineer** | [FastAPI](https://fastapi.tiangolo.com/), [Docker](https://www.docker.com/), [AWS](https://aws.amazon.com/) ([EC2](https://aws.amazon.com/ec2/), [S3](https://aws.amazon.com/s3/)), [CI/CD](https://en.wikipedia.org/wiki/CI/CD), [MLOps](https://ml-ops.org/), [RESTful APIs](https://restfulapi.net/), [RAG](https://en.wikipedia.org/wiki/Retrieval-augmented_generation), [Agile/Scrum](https://www.scrumguides.org/), [Version Control](https://en.wikipedia.org/wiki/Version_control) |
-| 🤖 **Machine Learning** | [scikit-learn](https://scikit-learn.org/), Anomaly Detection ([Z-Score](https://en.wikipedia.org/wiki/Standard_score), [Isolation Forest](https://en.wikipedia.org/wiki/Isolation_forest), [One-Class SVM](https://scikit-learn.org/stable/modules/outlier_detection.html)), [MLflow](https://mlflow.org/) |
-| 🧠 **Deep Learning** | [TensorFlow](https://www.tensorflow.org/), [PyTorch](https://pytorch.org/), [CNNs](https://en.wikipedia.org/wiki/Convolutional_neural_network) |
-| 💬 **NLP** | [RAG](https://en.wikipedia.org/wiki/Retrieval-augmented_generation), [LangChain](https://www.langchain.com/), [Hugging Face](https://huggingface.co/), [ChromaDB](https://www.trychroma.com/), [FAISS](https://github.com/facebookresearch/faiss), [sentence-transformers](https://www.sbert.net/) |
-| 👁️ **Computer Vision** | [YOLOv8](https://docs.ultralytics.com/models/yolov8/), [OpenCV](https://opencv.org/), [real-time object detection](https://en.wikipedia.org/wiki/Object_detection) |
-| 🔧 **Data Engineer** | [ETL/ELT pipelines](https://en.wikipedia.org/wiki/Extract,_transform,_load), [data modeling & warehousing](https://en.wikipedia.org/wiki/Data_warehouse), [data architecture](https://en.wikipedia.org/wiki/Data_architecture), [Apache Spark](https://spark.apache.org/), [Apache Kafka](https://kafka.apache.org/), AWS ([SQS](https://aws.amazon.com/sqs/), [Glue](https://aws.amazon.com/glue/), [Lambda](https://aws.amazon.com/lambda/)), query optimization (aggregation pushdown, keyset pagination), [SQL](https://en.wikipedia.org/wiki/SQL), [Data Governance](https://en.wikipedia.org/wiki/Data_governance) |
-| 📊 **Data Scientist** | [Feature engineering](https://en.wikipedia.org/wiki/Feature_engineering), [statistical analysis](https://en.wikipedia.org/wiki/Statistics), [A/B testing](https://en.wikipedia.org/wiki/A/B_testing), [Python](https://www.python.org/), [scikit-learn](https://scikit-learn.org/), [MLflow](https://mlflow.org/), [Jupyter](https://jupyter.org/) |
-| 🗄️ **Database Management** | [MySQL](https://www.mysql.com/), [PostgreSQL](https://www.postgresql.org/), [MongoDB](https://www.mongodb.com/), [SQLite3](https://www.sqlite.org/), [CRUD operations](https://en.wikipedia.org/wiki/Create,_read,_update_and_delete), [schema design](https://en.wikipedia.org/wiki/Database_design), [OLAP/OLTP](https://en.wikipedia.org/wiki/Online_analytical_processing) |
-| 💻 **Software Engineer** | [Java](https://www.java.com/), [C++](https://isocpp.org/), [Data Structures & Algorithms](https://en.wikipedia.org/wiki/Data_structure), [OOP](https://en.wikipedia.org/wiki/Object-oriented_programming), [Git](https://git-scm.com/), [Docker](https://www.docker.com/), [REST APIs](https://restfulapi.net/), [Flutter](https://flutter.dev/) |
+|:--|:--|
+| ⚙️ **AI Engineer** | FastAPI · Docker · AWS (EC2, S3) · CI/CD · MLOps · RAG · REST APIs |
+| 🤖 **Machine Learning** | scikit-learn · anomaly detection (Z-Score, Isolation Forest, One-Class SVM) · MLflow |
+| 🧠 **Deep Learning** | TensorFlow · PyTorch · CNNs |
+| 💬 **NLP** | RAG · LangChain / LangGraph · Hugging Face · ChromaDB · FAISS · sentence-transformers |
+| 👁️ **Computer Vision** | YOLOv8 · OpenCV · real-time object detection |
+| 🔧 **Data Engineering** | ETL/ELT · Spark · Kafka · AWS (SQS, Glue, Lambda) · query optimization · SQL |
+| 📊 **Data Science** | feature engineering · statistical analysis · A/B testing · pandas · Jupyter |
+| 🗄️ **Databases** | MySQL · PostgreSQL · MongoDB · SQLite · schema design · OLAP/OLTP |
+| 💻 **Software Engineering** | Java · C++ · DSA · OOP · Git · Docker · REST APIs |
 
 <br/>
 

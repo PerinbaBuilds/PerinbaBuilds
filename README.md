@@ -4,7 +4,7 @@
 
 # Hi 👋, I'm Perinba Athiban
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=24&pause=1000&color=2E86C1&center=true&vCenter=true&width=620&lines=AI+Engineer;Machine+Learning+Engineer;Deep+Learning+Engineer;NLP+Engineer;Computer+Vision+Engineer;Data+Engineer;Software+Engineer" alt="Typing SVG" width="100%" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=23&pause=1000&color=2E86C1&center=true&vCenter=true&width=620&lines=AI+Engineer;Machine+Learning+Engineer;Deep+Learning+Engineer;NLP+Engineer;Computer+Vision+Engineer;Data+Engineer;Software+Engineer" alt="Typing SVG" width="100%" />
 
 **Final Year B.Tech CSE (AI & Robotics) @ VIT Chennai** 
 

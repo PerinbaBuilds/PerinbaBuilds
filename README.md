@@ -101,7 +101,7 @@ Final-year **B.Tech (AI & Robotics)** engineer specializing in applied machine l
 | Role | Highlights |
 |---|---|
 | **Data Engineer Intern** · [TangoEye.ai](https://tangoeye.ai/) <br/> <sub>Jun 2026 – Jul 2026 · Chennai, India</sub> | Built **TangoOps**, an access-controlled console managing migration/audit workflows for **6,321 stores** across 4 role-gated accounts, replacing direct-AWS shell scripts with atomic, RBAC-gated operations. Reduced production analytics query latency **up to 84× (65s → 0.77s)** via aggregation pushdown and keyset pagination, decoupled a migration pipeline with SQS, and automated a 5-phase incident fix into one idempotent AWS Glue job with SES/CloudWatch alerting. |
-| **Project Intern** · ISRO – Satish Dhawan Space Centre <br/> <sub>Jun 2025 – Jul 2025 · Sriharikota, India</sub> | Built a Python telemetry app (SQLite3 backend, Tkinter/Matplotlib GUI) for real-time curve visualization and nominal-vs-actual comparison, and integrated an ML anomaly-detection pipeline (Z-Score, Isolation Forest, One-Class SVM) with severity scoring and structured CSV export for post-flight review. |
+| **Project Intern** · [ISRO – Satish Dhawan Space Centre](https://www.shar.gov.in/) <br/> <sub>Jun 2025 – Jul 2025 · Sriharikota, India</sub> | Built a Python telemetry app (SQLite3 backend, Tkinter/Matplotlib GUI) for real-time curve visualization and nominal-vs-actual comparison, and integrated an ML anomaly-detection pipeline (Z-Score, Isolation Forest, One-Class SVM) with severity scoring and structured CSV export for post-flight review. |
 
 <br/>
 

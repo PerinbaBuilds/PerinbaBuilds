@@ -18,7 +18,7 @@
 
 💼 Ex-Data Engineer Intern @ TangoEye &nbsp;·&nbsp; 🛰️ Ex-ISRO Intern
 <br/>
-📜 IEEE-published researcher &nbsp;·&nbsp; 🏆 4 patents
+📜 IEEE-published researcher &nbsp;·&nbsp; 🏆 5 patents
 <br/>
 🥇 National 1st place (YOLOv8 ADAS)
 
@@ -37,7 +37,7 @@
 
 ## 👨‍💻 About Me
 
-I'm an AI/ML engineer who builds end-to-end intelligent systems — from RAG pipelines and computer vision models to the data infrastructure and APIs that ship them to production. My background spans a Data Engineer internship at TangoEye — building access-controlled internal tooling and query-optimization systems (up to 84× latency reduction) — an ISRO internship on launch-vehicle telemetry analysis, 4 IEEE publications, and 4 patents across IoT, blockchain, and embedded systems. Always exploring the intersection of ML research and real-world deployment.
+I'm an AI/ML engineer focused on shipping intelligent systems to production — from RAG and LLM-evaluation pipelines to computer-vision models and the data infrastructure, APIs, and streaming backends that serve them. Most recently at **TangoEye**, I cut production analytics query latency **up to 84×** (65s → 0.77s) with aggregation pushdown and keyset pagination, and engineered an RBAC-gated operations console managing migration/audit workflows for **6,300+ retail stores** on AWS (SQS, Glue, Lambda). My work spans **4 IEEE-indexed publications**, **5 patents** across IoT, blockchain, and embedded systems, and an ISRO internship on launch-vehicle telemetry analysis. I care about correctness, measurable performance, and systems that hold up under real-world load.
 
 <br/>
 
@@ -89,7 +89,7 @@ I'm an AI/ML engineer who builds end-to-end intelligent systems — from RAG pip
 | 🧠 **Deep Learning** | [TensorFlow](https://www.tensorflow.org/), [PyTorch](https://pytorch.org/), [CNNs](https://en.wikipedia.org/wiki/Convolutional_neural_network) |
 | 💬 **NLP** | [RAG](https://en.wikipedia.org/wiki/Retrieval-augmented_generation), [LangChain](https://www.langchain.com/), [Hugging Face](https://huggingface.co/), [ChromaDB](https://www.trychroma.com/), [FAISS](https://github.com/facebookresearch/faiss), [sentence-transformers](https://www.sbert.net/) |
 | 👁️ **Computer Vision** | [YOLOv8](https://docs.ultralytics.com/models/yolov8/), [OpenCV](https://opencv.org/), [real-time object detection](https://en.wikipedia.org/wiki/Object_detection) |
-| 🔧 **Data Engineer** | [ETL/ELT pipelines](https://en.wikipedia.org/wiki/Extract,_transform,_load), [data modeling & warehousing](https://en.wikipedia.org/wiki/Data_warehouse), [data architecture](https://en.wikipedia.org/wiki/Data_architecture), [Apache Spark](https://spark.apache.org/), [Apache Kafka](https://kafka.apache.org/), [SQL](https://en.wikipedia.org/wiki/SQL), [Data Governance](https://en.wikipedia.org/wiki/Data_governance) |
+| 🔧 **Data Engineer** | [ETL/ELT pipelines](https://en.wikipedia.org/wiki/Extract,_transform,_load), [data modeling & warehousing](https://en.wikipedia.org/wiki/Data_warehouse), [data architecture](https://en.wikipedia.org/wiki/Data_architecture), [Apache Spark](https://spark.apache.org/), [Apache Kafka](https://kafka.apache.org/), AWS ([SQS](https://aws.amazon.com/sqs/), [Glue](https://aws.amazon.com/glue/), [Lambda](https://aws.amazon.com/lambda/)), query optimization (aggregation pushdown, keyset pagination), [SQL](https://en.wikipedia.org/wiki/SQL), [Data Governance](https://en.wikipedia.org/wiki/Data_governance) |
 | 📊 **Data Scientist** | [Feature engineering](https://en.wikipedia.org/wiki/Feature_engineering), [statistical analysis](https://en.wikipedia.org/wiki/Statistics), [A/B testing](https://en.wikipedia.org/wiki/A/B_testing), [Python](https://www.python.org/), [scikit-learn](https://scikit-learn.org/), [MLflow](https://mlflow.org/), [Jupyter](https://jupyter.org/) |
 | 🗄️ **Database Management** | [MySQL](https://www.mysql.com/), [PostgreSQL](https://www.postgresql.org/), [MongoDB](https://www.mongodb.com/), [SQLite3](https://www.sqlite.org/), [CRUD operations](https://en.wikipedia.org/wiki/Create,_read,_update_and_delete), [schema design](https://en.wikipedia.org/wiki/Database_design), [OLAP/OLTP](https://en.wikipedia.org/wiki/Online_analytical_processing) |
 | 💻 **Software Engineer** | [Java](https://www.java.com/), [C++](https://isocpp.org/), [Data Structures & Algorithms](https://en.wikipedia.org/wiki/Data_structure), [OOP](https://en.wikipedia.org/wiki/Object-oriented_programming), [Git](https://git-scm.com/), [Docker](https://www.docker.com/), [REST APIs](https://restfulapi.net/), [Flutter](https://flutter.dev/) |
@@ -110,11 +110,11 @@ I'm an AI/ML engineer who builds end-to-end intelligent systems — from RAG pip
 | Project | Description | Stack | Links |
 |---|---|---|---|
 | **EvalPipe — AI Evaluation Pipeline** | Self-hosted, provider-agnostic evaluation pipeline for LLM apps — pluggable metric suite, statistically rigorous A/B testing, and prompt versioning; 95% test coverage, runs fully offline | Python, FastAPI, Docker | [Code](https://github.com/PerinbaBuilds/AI-Evaluation-Pipeline) · [Demo](https://evalpipe.onrender.com/) |
-| **Semantic-RAG-Search** | RAG pipeline over 18,000+ Usenet posts from 1993 — query rewriting, document grading, and RAGAS evaluation | Python, LangGraph, FastAPI | [Code](https://github.com/PerinbaBuilds/Semantic-RAG-Search) · [Demo](https://perinbabuilds-newsgroups-search.hf.space/) |
-| **TaskPilot** | RL-powered cloud job scheduler that minimises carbon footprint via tier-pool routing and real-time energy data | Python | [Code](https://github.com/PerinbaBuilds/TaskPilot) · [Demo](https://taskpilot-krt8.onrender.com/) |
+| **Semantic-RAG-Search** | RAG pipeline over 18,000+ Usenet posts (1993) — sentence-transformer embeddings in ChromaDB, LangGraph query rewriting + document grading, a Fuzzy C-Means semantic cache (~15× cheaper lookups), and RAGAS evaluation | Python, LangGraph, ChromaDB, FastAPI | [Code](https://github.com/PerinbaBuilds/Semantic-RAG-Search) · [Demo](https://perinbabuilds-newsgroups-search.hf.space/) |
+| **TaskPilot** | RL (Q-learning) cloud job scheduler that minimises carbon footprint via tier-pool routing and real-time grid-energy data, with LLM-generated explainability for each scheduling decision | Python, Groq, FastAPI | [Code](https://github.com/PerinbaBuilds/TaskPilot) · [Demo](https://taskpilot-krt8.onrender.com/) |
 | **Curve-Analysis-and-Anomaly-Detection** | Desktop tool for launch vehicle telemetry analysis — deviation/bound checks and ML-based anomaly detection. Built at SDSC-SHAR, ISRO | Python, scikit-learn | [Code](https://github.com/PerinbaBuilds/Curve-Analysis-and-Anomaly-Detection) |
 | **BloodBank-Finder** | Real-time blood donation and emergency-response platform — geo-matched donor discovery, live inventory, and ambulance dispatch | Next.js, TypeScript, Prisma, Socket.io, React Native | [Code](https://github.com/PerinbaBuilds/BloodBank-Finder) · [Demo](https://blood-bank-finder.vercel.app/) |
-| **Finance-App** | Personal finance tracker — monthly budgets per category, expense and income logging, savings goals, recurring bills, and a financial health score | Flutter, Supabase | [Code](https://github.com/PerinbaBuilds/Finance-App) · [Demo](https://perinbabuilds.github.io/Finance-App/) |
+| **Finance-App** | Cross-platform personal finance tracker — per-category budgets, income/expense logging, savings goals, recurring bills, a financial-health score, and an **AI financial advisor** (Grok / xAI) that turns spending patterns into personalized guidance | Flutter, Supabase, Grok (xAI) | [Code](https://github.com/PerinbaBuilds/Finance-App) · [Demo](https://perinbabuilds.github.io/Finance-App/) |
 | **Smart-Traffic-System** | IoT traffic-signal system that detects approaching emergency vehicles via GPS + siren telemetry and opens a real-time green corridor through intersections ahead of them | React, Node.js, Socket.io, Leaflet, Vite | [Code](https://github.com/PerinbaBuilds/Smart-Traffic-System) · [Demo](https://perinbabuilds.github.io/Smart-Traffic-System/) |
 
 <br/>
@@ -124,7 +124,7 @@ I'm an AI/ML engineer who builds end-to-end intelligent systems — from RAG pip
 | | |
 |---|---|
 | **Research** | 4 IEEE-indexed publications across computer vision, predictive analytics, satellite EPS, and maritime safety systems |
-| **Patents** | 4 patents spanning IoT sensing, blockchain-based EHR systems, and embedded design |
+| **Patents** | 5 patents (1 recently published) spanning IoT sensing, blockchain-based EHR systems, and embedded design |
 | **Award** | 1st Place, 39th National Convention of Electrical Engineers (2024) — Vehicle Distance Estimation using YOLOv8, from 85+ national submissions |
 
 <br/>

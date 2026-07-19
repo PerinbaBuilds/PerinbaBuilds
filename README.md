@@ -52,7 +52,7 @@ Final-year **B.Tech (AI & Robotics)** engineer specializing in applied machine l
 <br/>
 <br/>
 
-<img src="https://ghchart.rshah.org/2E86C1/PerinbaBuilds" alt="Perinba Athiban's contribution graph" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PerinbaBuilds&bg_color=0d1117&color=39d353&line=39d353&point=39d353&area_color=39d353&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="Perinba Athiban's contribution activity graph" width="100%" />
 
 </div>
 

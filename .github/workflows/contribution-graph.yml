@@ -1,0 +1,32 @@
+name: Contribution Graph
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Generate dark contribution graph
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_LOGIN: ${{ github.repository_owner }}
+        run: python .github/scripts/gen_contribution_graph.py
+
+      - name: Commit and push generated graph
+        run: |
+          git config user.name "PerinbaBuilds"
+          git config user.email "perinbaathiban@gmail.com"
+          git add assets/contribution-graph.svg
+          git diff --cached --quiet && echo "No changes" && exit 0
+          git commit -m "Update contribution graph"
+          git push

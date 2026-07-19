@@ -45,6 +45,11 @@ Final-year **B.Tech (AI & Robotics)** engineer specializing in applied machine l
 
 <div align="center">
 
+<img src="assets/contribution-graph.svg" alt="Perinba Athiban's contribution graph" width="100%" />
+
+<br/>
+<br/>
+
 <img src="profile-summary-card-output/github_dark/0-profile-details.svg" alt="Profile details" />
 <img src="profile-summary-card-output/github_dark/3-stats.svg" alt="GitHub stats" />
 <img src="profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Top languages" />

@@ -41,6 +41,23 @@ Final-year **B.Tech (AI & Robotics)** engineer specializing in applied machine l
 
 <br/>
 
+## 📊 GitHub Dashboard
+
+<div align="center">
+
+<img src="profile-summary-card-output/github_dark/0-profile-details.svg" alt="Profile details" />
+<img src="profile-summary-card-output/github_dark/3-stats.svg" alt="GitHub stats" />
+<img src="profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Top languages" />
+
+<br/>
+<br/>
+
+<img src="https://ghchart.rshah.org/2E86C1/PerinbaBuilds" alt="Perinba Athiban's contribution graph" width="100%" />
+
+</div>
+
+<br/>
+
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -126,18 +143,6 @@ Final-year **B.Tech (AI & Robotics)** engineer specializing in applied machine l
 | **Research** | 4 IEEE-indexed publications across computer vision, predictive analytics, satellite EPS, and maritime safety systems |
 | **Patents** | 5 patents spanning IoT sensing, blockchain-based EHR systems, embedded design, and wearable AR — most recent: *Wearable Underwater Navigation & Safety System with Augmented Reality and Multi-Modal Data Fusion* |
 | **Award** | 1st Place, 39th National Convention of Electrical Engineers (2024) — Vehicle Distance Estimation using YOLOv8, from 85+ national submissions |
-
-<br/>
-
-## 📊 GitHub Dashboard
-
-<div align="center">
-
-<img src="profile-summary-card-output/github_dark/0-profile-details.svg" alt="Profile details" />
-<img src="profile-summary-card-output/github_dark/3-stats.svg" alt="GitHub stats" />
-<img src="profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Top languages" />
-
-</div>
 
 <br/>
 

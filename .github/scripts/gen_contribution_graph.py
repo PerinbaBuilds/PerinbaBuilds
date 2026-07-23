@@ -84,7 +84,7 @@ def _text_w(s):
 def make_followers_badge(count):
     """Render a flat-square 'Followers' badge SVG (no shields.io dependency)."""
     label, value = "Followers", str(count)
-    label_bg, value_bg = "#333333", "#2E86C1"
+    label_bg, value_bg = "#181717", "#181717"
     logo, h = 14, 20
     label_w = 5 + logo + 4 + _text_w(label) + 8
     value_w = 8 + _text_w(value) + 8

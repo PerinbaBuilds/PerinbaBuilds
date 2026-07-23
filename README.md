@@ -11,7 +11,7 @@
 [![Email](https://img.shields.io/badge/-perinbaathiban%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=perinbaathiban@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/perinba-athiban-a970a8280/)
 
-[![Follow](https://img.shields.io/badge/Follow-PerinbaBuilds-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/PerinbaBuilds)
+[![GitHub Followers](https://img.shields.io/github/followers/PerinbaBuilds?style=flat-square&logo=github&color=181717&labelColor=181717&label=Followers)](https://github.com/PerinbaBuilds?tab=followers)
 [![Profile Views](https://komarev.com/ghpvc/?username=PerinbaBuilds&style=flat-square&color=2E86C1&label=Profile+Views)](https://github.com/PerinbaBuilds)
 
 <br/>

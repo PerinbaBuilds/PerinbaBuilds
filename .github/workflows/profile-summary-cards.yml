@@ -27,4 +27,8 @@ jobs:
           git add profile-summary-card-output
           git diff --cached --quiet && exit 0
           git commit -m "Generate profile summary cards"
-          git push
+          for i in 1 2 3 4 5; do
+            git pull --rebase origin main && git push && exit 0
+            echo "push attempt $i failed, retrying..."; sleep 3
+          done
+          exit 1

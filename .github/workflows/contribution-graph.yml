@@ -29,4 +29,8 @@ jobs:
           git add assets/contribution-graph.svg
           git diff --cached --quiet && echo "No changes" && exit 0
           git commit -m "Update contribution graph"
-          git push
+          for i in 1 2 3 4 5; do
+            git pull --rebase origin main && git push && exit 0
+            echo "push attempt $i failed, retrying..."; sleep 3
+          done
+          exit 1

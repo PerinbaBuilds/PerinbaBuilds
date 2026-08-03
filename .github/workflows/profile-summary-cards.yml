@@ -2,6 +2,8 @@ name: GitHub-Profile-Summary-Cards
 
 on:
   workflow_dispatch:
+  schedule:
+    - cron: "30 0 * * 0"   # weekly, Sunday 00:30 UTC (staggered from contribution graph)
 
 jobs:
   build:
